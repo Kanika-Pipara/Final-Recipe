@@ -1,0 +1,18 @@
+/* src/styles/tailwind.css */
+
+
+/* Add your custom styles here */
+
+body {
+  margin: 0;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* 
+@layer base {
+  body {
+    background: linear-gradient(to right, rgb(15, 23, 42), rgb(88, 28, 135), rgb(15, 23, 42));
+  }
+} */
+
